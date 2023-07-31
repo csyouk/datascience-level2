@@ -7,3 +7,7 @@
   - 실기 6문제 2set * 3문항, 개당 10점, 총 60점
 - 합격기준 : 총점 70점 이상(과락 필기 24점/ 실기 36점)
 - 응시시간 : 3시간
+
+## 참고
+- pandas 100제 : https://github.com/csyouk/pandas_exercises
+- datamanim : https://www.datamanim.com/
